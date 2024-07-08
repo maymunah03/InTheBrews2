@@ -6,4 +6,4 @@
 - React (Hooks)
 - Bootstrap
 
-May was heres
+May was heress
